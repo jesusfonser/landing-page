@@ -1,12 +1,18 @@
+body{
+    margin: 0;
+}
+
 .header{
     display: flex;
     background-color: #1F2937;
     height: 75px;
     color: white;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
+    padding: 0 150px;
 }
 
 li{
     display: inline;
+    padding: 0 15px;
 }
