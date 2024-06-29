@@ -19,6 +19,15 @@ body{
     padding: 0 150px;
 }
 
+.hero{
+    display: flex;
+    box-sizing: border-box;
+    background-color: #1F2937;
+    height: 600px;
+    padding: 100px 0;
+    justify-content: center;
+}
+
 li{
     display: inline;
     padding: 0 15px;
