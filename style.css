@@ -33,6 +33,7 @@ body{
     flex: 1;
     display: flex;
     flex-direction: column;
+    align-items: flex-start;
 }
 
 .hero-text1{
@@ -41,13 +42,23 @@ body{
     margin: 0;
 }
 
+.hero-text2{
+    font-size: 18px;
+}
+
+.hero-button{
+    background-color: #3882F6;
+    border-style: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
 .hero-img{
     flex: 1;
 }
 
-.hero-text2{
-    font-size: 18px;
-}
+
 
 li{
     display: inline;
