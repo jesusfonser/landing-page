@@ -16,7 +16,7 @@ body{
     color: white;
     align-items: center;
     justify-content: space-between;
-    padding: 0 360px;
+    padding: 0 330px;
 }
 
 .hero{
@@ -24,9 +24,9 @@ body{
     box-sizing: border-box;
     background-color: #1F2937;
     height: 600px;
-    padding: 100px 360px;
+    padding: 100px 330px;
     justify-content: center;
-    gap: 40px;
+    gap: 70px;
 }
 
 .hero-text{
