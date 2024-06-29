@@ -26,6 +26,7 @@ body{
     height: 600px;
     padding: 100px 360px;
     justify-content: center;
+    gap: 40px;
 }
 
 .hero-text{
@@ -42,6 +43,10 @@ body{
 
 .hero-img{
     flex: 1;
+}
+
+.hero-text2{
+    font-size: 18px;
 }
 
 li{
