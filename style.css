@@ -16,7 +16,7 @@ body{
     color: white;
     align-items: center;
     justify-content: space-between;
-    padding: 0 150px;
+    padding: 0 240px;
 }
 
 .hero{
@@ -24,7 +24,7 @@ body{
     box-sizing: border-box;
     background-color: #1F2937;
     height: 600px;
-    padding: 100px 150px;
+    padding: 100px 240px;
     justify-content: center;
 }
 
