@@ -85,6 +85,18 @@ body{
 .random-square{
     display: flex;
     flex-direction: column;
+    width: 150px;
+    text-align: center;
+    font-size: 18px;
+    flex: 1;
+}
+
+.square{
+    border-style: solid;
+    border-color: #3882F6;
+    border-width: 10px;
+    border-radius: 8px;
+    flex: 1;
 }
 
 li{
