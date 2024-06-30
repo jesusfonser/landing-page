@@ -76,6 +76,17 @@ body{
     color: #1F2937;
 }
 
+.random-squares{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.random-square{
+    display: flex;
+    flex-direction: column;
+}
+
 li{
     display: inline;
     padding: 0 15px;
