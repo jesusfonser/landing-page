@@ -65,7 +65,7 @@ body{
     flex-direction: column;
     align-items: center;
     gap: 30px;
-    padding: 60px;
+    padding-bottom: 100px;
 }
 
 .random-header{
@@ -96,7 +96,7 @@ body{
 .square{
     border-style: solid;
     border-color: #3882F6;
-    border-width: 10px;
+    border-width: 6px;
     border-radius: 8px;
     flex: 1;
 }
