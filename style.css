@@ -88,7 +88,7 @@ body{
 .random-square{
     display: flex;
     flex-direction: column;
-    width: 150px;
+    width: 170px;
     text-align: center;
     font-size: 18px;
     flex: 1;
