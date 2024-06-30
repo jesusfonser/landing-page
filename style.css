@@ -60,6 +60,18 @@ body{
 
 .random{
     height: 470px;
+    display: flex;
+    justify-content: center;
+}
+
+.random-header{
+    height: 80px;
+    display: flex;
+    align-items: flex-end;
+    font-size: 36px;
+    font-family: arial;
+    font-weight: 800;
+    color: #1F2937;
 }
 
 li{
