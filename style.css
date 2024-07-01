@@ -121,12 +121,12 @@ body{
 }
 
 .call{
-    padding: 60px 100px;
+    padding: 80px 100px;
 }
 
 .call-cuadrao{
     background-color: #3882F6;
-    padding: 40px 80px;
+    padding: 40px 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -148,6 +148,9 @@ body{
     background-color: #3882F6;
     border-style: solid;
     border-color: white;
+    font-size: 18px;
+    padding: 5px 25px;
+    border-radius: 5px;
 }
 li{
     display: inline;
