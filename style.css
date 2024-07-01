@@ -105,6 +105,7 @@ body{
 
 .quote{
     text-align: center;
+    display: flex;
 }
 
 li{
