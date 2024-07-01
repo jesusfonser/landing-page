@@ -104,8 +104,20 @@ body{
 }
 
 .quote{
-    text-align: center;
     display: flex;
+    flex-direction: column;
+    padding: 100px 510px;
+    background-color: #E5E7EB;
+}
+
+.frase{
+    font-size: 36px;
+    font-style: italic;
+}
+
+.autor{
+    align-self: flex-end;
+    font-weight: bold;
 }
 
 li{
