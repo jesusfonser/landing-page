@@ -120,6 +120,25 @@ body{
     font-weight: bold;
 }
 
+.call{
+    padding: 60px 100px;
+}
+
+.call-cuadrao{
+    background-color: #3882F6;
+}
+
+.call-texto{
+    color: white;
+}
+
+.call-boton{
+    color: white;
+    font-weight: bold;
+    background-color: #3882F6;
+    border-style: solid;
+    border-color: white;
+}
 li{
     display: inline;
     padding: 0 15px;
