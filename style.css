@@ -130,10 +130,16 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-radius: 8px;
 }
 
 .call-texto{
     color: white;
+}
+
+.call-header{
+    font-weight: bold;
+    font-size: 18px;
 }
 
 .call-boton{
